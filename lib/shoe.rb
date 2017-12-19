@@ -10,6 +10,4 @@ class Shoe
 
   def cobble
   end
-
-
 end
