@@ -28,6 +28,6 @@ class Book
   end
 
   def genre
-    genre
+    @genre
   end
 end
